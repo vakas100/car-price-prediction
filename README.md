@@ -1,4 +1,4 @@
-Car Price Prediction Model
+# Car Price Prediction Model
 
 This project predicts the **price of cars** using a **Linear Regression model** trained on a dataset of used cars.  
 The goal is to provide an estimate of a car’s selling price based on features like brand, year, mileage, fuel type, etc.
